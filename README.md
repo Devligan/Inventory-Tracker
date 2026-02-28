@@ -20,8 +20,3 @@ This is a simple inventory tracking application written in C#. It allows users t
 - `Main.cs` - Application entry point.
 - `data.txt` - Stores inventory data.
 - `log.txt` - Records actions and changes for auditing purposes.
-
-## Getting Started
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Devligan/Inventory-Tracker.git
