@@ -1,2 +1,0 @@
-DATE: 1/1/0001
-Perishable | Potato | Qty: 15 | Expires: 4/11/2028
