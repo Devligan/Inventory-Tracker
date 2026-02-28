@@ -1,3 +1,4 @@
+using System;
 public class NonPerishableItem : Item
 {
 	public NonPerishableItem(string name, double quantity) : base(name, quantity) { }
